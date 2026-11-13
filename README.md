@@ -12,7 +12,7 @@
 ```
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=400&size=28&pause=1200&color=CD8D7A&center=true&vCenter=true&width=700&lines=ngoding+dulu,+error+belakangan.;root%40ropi%3A~%24+whoami;monyet+lu.;power+f.;yang+penting+jadi." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=30&pause=1000&color=F5F5F5&center=true&vCenter=true&width=700&lines=ngoding+dulu,+error+belakangan.;root%40ropi%3A~%24+whoami;monyet+lu.;power+f.;yang+penting+jadi." alt="typing" />
 </a>
 
 <br><br>
