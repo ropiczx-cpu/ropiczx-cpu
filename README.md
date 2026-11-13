@@ -15,6 +15,10 @@
 
 <br><br>
 
+<img src="https://raw.githubusercontent.com/ropiczx-cpu/ropiczx-cpu/main/ropi-pfp.svg" width="45%" alt="pfp" />
+
+<br><br>
+
 <img src="https://raw.githubusercontent.com/ropiczx-cpu/ropiczx-cpu/main/ropi-card.svg" width="100%" alt="ropi" />
 
 <br><br>
