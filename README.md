@@ -14,7 +14,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=FF2E4D&center=true&vCenter=true&width=620&lines=root%40ropi%3A~%24+whoami;red+team+wannabe+%7C+full-stack+dev;bongkar+dulu%2C+ngerti+belakangan;night+owl.+kopi+dingin.+no+sleep." alt="typing" />
 </a>
-
+<img src="https://skillicons.dev/icons?i=py,cpp,linux&theme=dark" />
 <br><br>
 
 <a href="https://github.com/ropiczx-cpu"><img src="https://img.shields.io/badge/github-ropiczx--cpu-0D1117?style=for-the-badge&logo=github&logoColor=ff2e4d&labelColor=0D1117&color=ff2e4d" alt="github" /></a>
