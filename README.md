@@ -4,10 +4,6 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/ropiczx-cpu/ropiczx-cpu/main/ropi-card.svg" width="100%" alt="ropi" />
-
-<br>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=30&pause=1000&color=F5F5F5&center=true&vCenter=true&width=700&lines=ngoding+dulu,+error+belakangan.;root%40ropi%3A~%24+whoami;monyet+lu.;power+f.;yang+penting+jadi." alt="typing" />
 </a>
@@ -16,6 +12,10 @@
 
 <a href="https://github.com/ropiczx-cpu"><img src="https://img.shields.io/badge/github-ropiczx--cpu-0D1117?style=for-the-badge&logo=github&logoColor=ff2e4d&labelColor=0D1117&color=ff2e4d" alt="github" /></a>
 <a href="https://www.instagram.com/aslrov1/"><img src="https://img.shields.io/badge/instagram-aslrov1-0D1117?style=for-the-badge&logo=instagram&logoColor=ff2e4d&labelColor=0D1117&color=ff2e4d" alt="instagram" /></a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/ropiczx-cpu/ropiczx-cpu/main/ropi-card.svg" width="100%" alt="ropi" />
 
 <br><br>
 
