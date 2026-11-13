@@ -1,6 +1,6 @@
 <div align="center">
   <!-- BANNER REZE -->
-  <img src="LINK_RAW_REZE" alt="Reze Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+  <img src="reze.jpg" alt="Reze Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ropi!;Cyber+Security+Enthusiast;Full-Stack+Developer;Just+Another+Tech+Addict" alt="Typing SVG" />
   
