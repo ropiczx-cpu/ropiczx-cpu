@@ -3,12 +3,12 @@
 <img src="https://raw.githubusercontent.com/ropiczx-cpu/ropiczx-cpu/main/reze.jpg" width="100%" />
 
 ```
-██████╗  ██████╗ ██████╗ ██╗
-██╔══██╗██╔═══██╗██╔══██╗██║
-██████╔╝██║   ██║██████╔╝██║
-██╔══██╗██║   ██║██╔═══╝ ██║
-██║  ██║╚██████╔╝██║     ██║
-╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝
+██████╗  ██████╗ ██████╗ ██╗       .--.
+██╔══██╗██╔═══██╗██╔══██╗██║      (o  o)
+██████╔╝██║   ██║██████╔╝██║      /|##|\
+██╔══██╗██║   ██║██╔═══╝ ██║     / |##| \
+██║  ██║╚██████╔╝██║     ██║       /  \
+╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝      /_  _\
 ```
 
 <a href="https://git.io/typing-svg">
@@ -16,30 +16,6 @@
 </a>
 
 <br><br>
-
-<div align="center">
-  <pre style="color: #00FF41; font-size: 6px; line-height: 0.6; letter-spacing: 1px; font-family: monospace; text-shadow: 0 0 2px #00FF41;">
-        .+##+.
-      .+######+.
-    .+##########+.
-   +##############+
-  +####+      +####+
- +#####+      +#####+
- +#####+      +#####+
- +######+    +######+
-  +################+
-   +##############+
-    +##+      +##+
-    +##+      +##+
-    +##+      +##+
-    +##+      +##+
-    +##+      +##+
-   +####+    +####+
-  +######+  +######+
- +########++########+
-+####################+
-  </pre>
-</div>
 
 <a href="https://github.com/ropiczx-cpu"><img src="https://img.shields.io/badge/github-ropiczx--cpu-0D1117?style=for-the-badge&logo=github&logoColor=ff2e4d&labelColor=0D1117&color=ff2e4d" alt="github" /></a>
 <a href="https://www.instagram.com/aslrov1/"><img src="https://img.shields.io/badge/instagram-aslrov1-0D1117?style=for-the-badge&logo=instagram&logoColor=ff2e4d&labelColor=0D1117&color=ff2e4d" alt="instagram" /></a>
