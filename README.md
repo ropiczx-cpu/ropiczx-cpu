@@ -1,8 +1,6 @@
 <div align="center">
 
-<!-- Kalau mau pakai banner Reze sendiri, ganti baris capsule di bawah dengan:
-<img src="LINK_RAW_REZE" alt="Reze Banner" width="100%" />
-Link harus RAW, contoh: https://raw.githubusercontent.com/ropiczx-cpu/ropiczx-cpu/main/reze.jpg -->
+<img src="reze.jpg" alt="Reze Banner" width="100%" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3a0a14,100:ff2e4d&height=220&section=header&text=ROPI&fontSize=90&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=root%40ropi%3A~%24%20break_things%20%26%20learn&descSize=18&descAlignY=65" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
