@@ -31,26 +31,26 @@
 <br>
 
 ```bash
-ropi@nightowl:~$ cat about.txt
+ropi:~$ cat about.txt
 
 [+] nama     : Ropi
-[+] role     : Cyber Security Enthusiast / Full-Stack Dev
-[+] fokus    : Red Teaming | Malware Analysis | Reverse Engineering
+[+] role     : Coding
+[+] fokus    : Study
 [+] senjata  : Python, C++, JS, PHP, Bash
-[+] os       : Linux (ya iyalah)
+[+] os       : Windos (meren)
 [+] jam aktif: tengah malam
-[+] bahan bakar: kopi dingin
+[+] bahan bakar: Power F
 [+] motto    : break it. understand it. rebuild it.
 ```
 
 <br>
 
 ```bash
-ropi@nightowl:~$ ls ~/arsenal
+ropi:~$ ls ~/arsenal
 ```
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,php,linux,bash,git,github,vscode,docker&theme=dark" alt="arsenal" />
+  <img src="https://skillicons.dev/icons?i=mobilelegend,py,cpp,js,html,css,php,linux,bash,git,github,vscode,docker&theme=dark" alt="arsenal" />
 </div>
 
 <br>
@@ -62,7 +62,7 @@ ropi@nightowl:~$ ls ~/arsenal
 <br>
 
 ```bash
-ropi@nightowl:~$ echo "mau kolab atau ngobrol? DM ig @aslrov1"
+ropi:~$ echo "mau kolab atau ngobrol? DM ig @aslrov1"
 ```
 
 <div align="center">
