@@ -46,7 +46,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ropiczx-cpu/ropiczx-cpu/output/github-contribution-grid-Snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ropiczx-cpu/ropiczx-cpu/output/github-contribution-grid-Snake.svg">
-    <img alt="github contribution grid Snake animation" src="https://raw.githubusercontent.com/ropiczx-cpu/ropiczx-cpu/output/github-contribution-grid-Snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ropiczx-cpu/ropiczx-cpu/output/github-contribution-grid-Snake.svg">
   </picture>
 </div>
 
