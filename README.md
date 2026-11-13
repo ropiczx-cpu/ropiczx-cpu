@@ -3,9 +3,6 @@
 <img src="reze.jpg" alt="Reze Banner" width="100%" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3a0a14,100:ff2e4d&height=220&section=header&text=ROPI&fontSize=90&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=root%40ropi%3A~%24%20break_things%20%26%20learn&descSize=18&descAlignY=65" width="100%" alt="header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FF2E4D&background=00000000&center=true&vCenter=true&width=600&lines=%3E+whoami+%E2%86%92+ropi;%3E+red+team+wannabe;%3E+bikin+tools+dulu%2C+tidur+belakangan;%3E+break+it.+understand+it.+rebuild+it." alt="Typing SVG" />
-</a>
 
 <br><br>
 
