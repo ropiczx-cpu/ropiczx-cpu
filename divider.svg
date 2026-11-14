@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" role="img" aria-label="divider">
+  <title>divider</title>
+  <!-- mid-gray tones so the rule reads on both GitHub light and dark -->
+  <line x1="0" y1="12" x2="560" y2="12" stroke="#808080" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="640" y1="12" x2="1200" y2="12" stroke="#808080" stroke-opacity="0.45" stroke-width="1"/>
+  <circle cx="600" cy="12" r="6" fill="none" stroke="#808080" stroke-width="1"/>
+  <path d="M600 6 A6 6 0 0 1 600 18 Z" fill="#808080"/>
+  <line x1="0" y1="8" x2="0" y2="16" stroke="#808080" stroke-width="1"/>
+  <line x1="1199.5" y1="8" x2="1199.5" y2="16" stroke="#808080" stroke-width="1"/>
+</svg>

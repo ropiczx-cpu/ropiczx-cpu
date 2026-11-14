@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">Ropi monogram</title>
+  <desc id="desc">An abstract geometric letter R built from a stem, a half-ring bowl and a diagonal leg, inside a thin circle.</desc>
+
+  <rect width="400" height="400" fill="#0A0A0A"/>
+  <rect x="14" y="14" width="372" height="372" fill="none" stroke="#252525" stroke-width="1"/>
+
+  <!-- orbit and ticks -->
+  <circle cx="200" cy="200" r="158" fill="none" stroke="#252525" stroke-width="1"/>
+  <g stroke="#B0B0B0" stroke-width="1">
+    <line x1="200" y1="34" x2="200" y2="46"/>
+    <line x1="200" y1="354" x2="200" y2="366"/>
+    <line x1="34" y1="200" x2="46" y2="200"/>
+    <line x1="354" y1="200" x2="366" y2="200"/>
+  </g>
+
+  <!-- monogram: stem, bowl, leg -->
+  <g fill="none" stroke="#FFFFFF" stroke-width="30" stroke-linecap="butt">
+    <line x1="150" y1="104" x2="150" y2="296"/>
+    <path d="M150 119 H218 A47 47 0 0 1 218 213 H150"/>
+    <line x1="206" y1="213" x2="262" y2="296"/>
+  </g>
+
+  <!-- counter-point -->
+  <circle cx="300" cy="104" r="7" fill="#B0B0B0"/>
+  <line x1="150" y1="318" x2="262" y2="318" stroke="#252525" stroke-width="1"/>
+</svg>
